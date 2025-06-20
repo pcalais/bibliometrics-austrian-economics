@@ -1,0 +1,145 @@
+Which Human Action? A Micro-Level Citation Analysis of Mises’ Magnum Opus
+
+Spanning 952 pages, 39 chapters, and 7 parts, Ludwig von Mises' Human Action (1949) is a cornerstone of Austrian economics. Yet, how its insights are engaged in scholarly literature remains largely unexplored. This study asks: How is Human Action cited? Which parts are most referenced, and in what context? To answer these questions, we analyzed a sample of 1,602 academic papers that directly cite Human Action. Through contextual citation analysis, we identified specific sections, direct quotes, page numbers, and co-cited authors, providing a detailed map of the book’s scholarly impact at the micro level — examining each sentence that cites a specific chapter of the book.
+
+Our findings reveal that all 39 chapters are cited to varying degrees, underscoring the breadth and depth of their contributions. Parts 1 (Human Action) and 4 (Catallactics) account for 80% of references. By applying well-established statistical techniques, we identified three dominant citation patterns: papers that cite Human Action with an emphasis on praxeology and the action axiom, papers that focus on catallactics, and papers that engage broadly with the text's other parts.
+
+Additionally, Human Action is co-cited (within the same sentence) alongside 582 authors, reflecting significant interaction with the broader literature. Frequently co-cited authors include Frank Knight, Max Weber, Milton Friedman, and Adam Smith, illustrating its interdisciplinary relevance and challenging perceptions of the Austrian School’s intellectual isolation. This study provides a detailed bibliometric analysis of Human Action and offers a framework for assessing the scholarly impact of foundational texts in Austrian economics and beyond.
+
+
+
+
+
+============================================================
+
+In this research, we go beyond citation counts...
+
+1) All the chapters are cited.
+2) Most important chapters are X, Y and Z.
+3) Human Action is cited alongside Author1, 2 and 3.
+4) Quem cita a parte Human Action esta fazendo o que? Usando a praxeologia pra desenvolver a ciencia economica?
+5) Qual é a PÁGINA mais importante de Human Action?
+
+ACHADOS:
+
+1 - rede de autores é toda conectada -- mesmo entre autores de várias escolas
+2 - Hayek e Adam Smith eh frequente mesmo ou sao varios Smith?
+3 - Mises e Hayek são co-citados com autores estranhos. O que isso significa?
+4 - Por que as pessoas citam Human Action? Onde é citado? Com quem é citado? Subir PDF do Human Action pro NotebookLM. SO ISSO AQUI JA EH UM AERC
+5 - Como Mises e Hayek são citados em paper de management e strategy?
+
+TODO:
+
+Quebrar Código em pedaços. Primeiro, gerar os TEI XML com author= e school=. Depois, número de tokens de distância.
+% de citacoes Austrian em cada paper. Dá pra achar os papers muito AUSTRIAN e poucos AUSTRIAN?
+% de cobertura de autores
+Schumpeter vs Kirzner? https://x.com/perbylund/status/1872673041693462917?s=46
+""Kirzner and Rothbard on an Austrian theory of entrepreneurship: the heirs of both Menger and Mises discuss action and the role of institutions"
+Shane 2000
+The Philosophical Foundations of a Radical Austrian Approach to Entrepreneurship
+Historical Perspective and Role of Entrepreneurship in Austrian Economics
+The Austrian debate on entrepreneurship. 
+The entrepreneur according to Austrian school, Eugenio Andrieu
+TODO: publicar aqui? https://www.cambridge.org/core/journals/journal-of-the-history-of-economic-thought
+TODO: conectar com seu trabalho o Review of Austrian Economics: A que cluster do RAE cada capítulo / seção pertence? Considerar o conteúdo inteiro, não precisa ser só a citação
+
+
+We advocate that in order to study the talk between schools, going to the citation level is crucial
+
+Journal of HPE:
+
+https://www.cambridge.org/core/journals/journal-of-the-history-of-economic-thought/article/abs/praxeology-entrepreneurship-and-the-market-process-a-review-of-kirzners-contribution/655D539DF95AA4E505D13CB60CCE78DA
+
+https://www.cambridge.org/core/journals/journal-of-the-history-of-economic-thought/article/abs/rothbards-austrian-perspective-a-review-article/7444F7F543790832ED42ECC1AA4A02E6
+
+MESMA METODOLOGIA:
+
+TOWARDS A “TEXT AS DATA” APPROACH IN THE HISTORY OF ECONOMICS: AN APPLICATION TO ADAM SMITH’S CLASSICS
+https://www.cambridge.org/core/journals/journal-of-the-history-of-economic-thought/article/abs/towards-a-text-as-data-approach-in-the-history-of-economics-an-application-to-adam-smiths-classics/30DC11E004DE0F7A33F5B30669D195DD
+
+HISTORY OF ECONOMIC THOUGHT AS TEXT ANALYSIS. SOME METHODOLOGICAL CONSIDERATIONS
+https://www.jstor.org/stable/23723680
+
+Digital Methods in Economic History: The Case of Computational Text Analysis
+https://link.springer.com/referenceworkentry/10.1007/978-3-031-35583-7_118
+
+Application of Text Mining Methods to the History of Economic Thought:
+https://www.semanticscholar.org/paper/Application-of-Text-Mining-Methods-to-the-History-Shimodaira/2882679d772000c8db4213d8cf927ef88dd88169
+
+Popularization of Classical Economics: The text-mining Analysis of David Ricardo, James Mill, and Harriet Martineau
+https://www-hs.yamagata-u.ac.jp/wp-content/uploads/2017/09/82482bc7496b7b36c0679f8ccad14bff.pdf
+
+https://www.academia.edu/24505745/Research_in_the_History_of_Economic_Thought_as_a_Vehicle_for_the_Defense_and_Criticism_of_Orthodox_Economics?email_work_card=title
+
+https://ips-u-hyogo.jp/wp2018/wp-content/themes/ips2020/pablication/pdf/discussionpaper/DPNo89.pdf
+A Study of Text mining for Research into the History of Economic Thought:
+The case of Alfred Marshall's Principles of Economics (1890) 
+
+History of Economic Thought as an Analytic Tool: why Past Intellectual Ideas Must Be Acknowledged as Lighthouses for the Future
+https://www.academia.edu/120265085/History_of_Economic_Thought_as_an_Analytic_Tool_why_Past_Intellectual_Ideas_Must_Be_Acknowledged_as_Lighthouses_for_the_Future
+
+Narrative and computational text analysis in business and economic history
+https://www.tandfonline.com/doi/full/10.1080/03585522.2021.1984299#abstract
+
+Is history of economic thought a "serious" subject?
+https://ejpe.org/journal/article/view/10
+
+Introduction: Tracing the History of a Discipline Through Quantitative and Qualitative Analyses of Scientific Literature
+https://link.springer.com/chapter/10.1007/978-3-319-97064-6_1?fromPaywallRec=true
+
+Three Gaps in Computational Text Analysis Methods for Social Sciences: A Research Agenda
+https://www.tandfonline.com/doi/full/10.1080/19312458.2021.2015574?src=recsys#abstract
+
+What We Can Do and Cannot Do with Topic Modeling: A Systematic Review
+https://www.tandfonline.com/doi/full/10.1080/19312458.2023.2167965?src=recsys
+
+Economic history goes digital: topic modeling the Journal of Economic History
+https://link.springer.com/article/10.1007/s11698-018-0171-7?fromPaywallRec=true
+
+A Big-Data Approach to Understanding the Thematic Landscape of the Field of Business Ethics, 1982–2016
+https://link.springer.com/article/10.1007/s10551-018-3806-5?fromPaywallRec=true
+
+Citation Context Analysis as a Method for Conducting Rigorous and Impactful Literature Reviews
+Survey about Citation Content Analysis: Tasks, Techniques and Resources
+
+Austrian and others: HPE!
+https://www.researchgate.net/publication/367581118_Will_the_Antagonism_Between_the_Mainstream_Theories_and_the_Theories_of_the_Austrian_School_of_Economics_Continue_to_Exist_in_the_Future_or_Will_More_Ideas_of_the_Austrian_School_Be_Incorporated_in_Ma
+
+Importancia de HPE: https://www.academia.edu/120265085/History_of_Economic_Thought_as_an_Analytic_Tool_why_Past_Intellectual_Ideas_Must_Be_Acknowledged_as_Lighthouses_for_the_Future?email_work_card=title
+
+https://www.academia.edu/64872418/The_entrepreneur_according_to_Austrian_school?email_work_card=title
+
+History of Economic Thought as an Analytic Tool: why Past Intellectual Ideas Must Be Acknowledged as Lighthouses for the Future" by Dieter Bogenhold
+
+Reflexões sobre Human Action: https://x.com/hoppequotes/status/1917301041365663839?s=46
+
+UMAP e artigos da filosofia:
+https://link.springer.com/article/10.1007/s11229-019-02390-8
+
+Hayek no Journal of History of Economic Thought:
+THE SOCIALISTS’ HYPOTHESES AND THE ROAD TO SERFDOM
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4767976
+
+The Philosophical Foundations of a Radical Austrian Approach to Entrepreneurship
+
+Evolution of Entrepreneurship theories through different schools of thought (2011)
+
+
+austrian debate on entrepreunership adriano gianturco
+
+
+COMENTÁRIO DANDREA:
+
+Tem mta HPE, metodologia, sociologia, economia comparada.
+Ver ONDE ele tá sendo citado em Administração, em Sociologia, em História...
+
+ARGUMENTO:
+
+Os capítulos são diferentes demais pra vc considerer um monolito!
+Cada capítulo é citado diferente por um conjunto diferente de journals.
+
+LINK LAIS:
+
+https://github.com/docling-project/docling
+
+
