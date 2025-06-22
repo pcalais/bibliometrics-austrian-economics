@@ -16,6 +16,8 @@ https://www.jstor.org/stable/23723680
 Digital Methods in Economic History: The Case of Computational Text Analysis
 https://link.springer.com/referenceworkentry/10.1007/978-3-031-35583-7_118
 
+Paradigms and Novelty in Economics: The History of Economic Thought as a Source of Enlightenment
+
 Application of Text Mining Methods to the History of Economic Thought:
 https://www.semanticscholar.org/paper/Application-of-Text-Mining-Methods-to-the-History-Shimodaira/2882679d772000c8db4213d8cf927ef88dd88169
 
