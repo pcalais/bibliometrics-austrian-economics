@@ -1,0 +1,47 @@
+1) entre em https://www.scopus.com/
+
+2) Busca. 
+
+Exemplo:
+
+REF("Human Action" and "Mises")
+
+3) Export para CSV salvando:
+
+- Document Title
+- DOI
+- Publisher
+- Open Access
+- Source Title
+- Authors	
+- Author Keywords
+- Year
+
+
+4) Instalar https://github.com/Tishacy/SciDownl
+
+
+5)
+
+docker run --rm --init --ulimit core=0 -p 8070:8070 lfoppiano/grobid:0.8.1
+docker run --rm  --init --ulimit core=0 -p 8070:8070  -v C:\Users\pedro\Downloads\AUSTRIAN\CONTEXT_RESEARCH\grobid.yaml:/opt/grobid/grobid-home/config/grobid.yaml:ro  grobid/grobid:0.8.1
+
+
+cd C:\Users\pedro\Downloads\AUSTRIAN\CONTEXT_RESEARCH
+grobid_client --input C:\Users\pedro\Downloads\AUSTRIAN\CONTEXT_RESEARCH\dataset\downloads --output C:\Users\pedro\Downloads\AUSTRIAN\CONTEXT_RESEARCH\dataset\downloads\tei --verbose processFulltextDocument
+
+	
+curl -v -H "Accept: application/xml" --form consolidateCitations=1 --form includeRawCitations=1 --form segmentSentences=1 --form input=@./10.1007.s12113-008-9036-4.pdf localhost:8070/api/processFulltextDocument
+
+
+teste:
+
+https://kermitt2-grobid.hf.space/
+
+referências:
+
+# https://grobid.readthedocs.io/en/latest/Run-Grobid/ (docker)
+# https://grobid.readthedocs.io/en/latest/Grobid-service/#apiprocessfulltextdocument
+# https://pypi.org/project/grobid-client-python/
+# https://medium.com/@researchgraph/how-to-use-grobid-67df995b16fa
+# https://github.com/kermitt2/grobid
