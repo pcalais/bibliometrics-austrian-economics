@@ -1,0 +1,107 @@
+author,tradition
+Leeson P.T.,contemporary-austrian
+Knight F.H.,chicago
+Holcombe R.G.,contemporary-austrian
+Holcombe R.,contemporary-austrian
+Holcombe Randall G.,contemporary-austrian
+Holcombe,contemporary-austrian
+Rothbard Murray N.,traditional-austrian
+Wieser F.,traditional-austrian
+von Wieser F.,traditional-austrian
+Von Wieser F.V.,traditional-austrian
+Thornton M.,contemporary-austrian
+Menger Carl,traditional-austrian
+Hayek F.A.V.,traditional-austrian
+Bylund Per L.,contemporary-austrian
+Hazlitt H.,contemporary-austrian
+Bohm-Bawerk E.,traditional-austrian
+Hayek F.A.,traditional-austrian
+von Hayek F.A.,traditional-austrian
+Hayek Friedrich A.,traditional-austrian
+von Mises L.,traditional-austrian
+Mises L.V.,traditional-austrian
+Mises L.,traditional-austrian
+Mill J.S.,classical
+Horwitz S.,contemporary-austrian
+Hoppe,contemporary-austrian
+De Soto H.,contemporary-austrian
+Hoppe Hans-Hermann,contemporary-austrian
+Rothbard,traditional-austrian
+von Mises,traditional-austrian
+Mises Ludwig von,traditional-austrian
+Mises,traditional-austrian
+Kirzner Israel M.,contemporary-austrian
+Rothbard M.N.,traditional-austrian
+Rothbard M.,traditional-austrian
+Menger C.,traditional-austrian
+Friedman M.,chicago
+Friedman D.,chicago
+Posner R.,chicago
+Coase R.H.,chicago
+Posner R.A.,chicago
+Hansen L.P.,chicago
+Keynes J.M.,keynesian
+Cantillon R.,classical
+Smith A.,classical
+Von Bohm-Bawerk E.,traditional-austrian
+Marx K.,marxist
+Fisher I.,neoclassical
+Hansen A.H.,keynesian
+Malthus T.R.,classical
+Lucas R.E.,chicago
+Becker G.S.,chicago
+Hawtrey R.G.,neoclassical
+Hume D.,classical
+North D.,classical
+Ricardo D.,classical
+Hansen Alvin H.,keynesian
+Samuelson P.,keynesian
+Malthus T.,classical
+Wicksell G.K.,neoclassical
+Wicksell K.,neoclassical
+Klein P.G.,contemporary-austrian
+Bylund P.L.,contemporary-austrian
+Von Mises L.,traditional-austrian
+Friedman Milton,chicago
+Menger K.,traditional-austrian
+Boettke P.,contemporary-austrian
+Boettke P.J.,contemporary-austrian
+Buchanan J.M.,public-choice
+Tullock,public-choice
+Tullock Tullock G.,public-choice
+Schumpeter J.A.,neoclassical
+Schumpeter J.,neoclassical
+Lachmann L.M.,traditional-austrian
+Hayek F.,traditional-austrian
+Kirzner I.M.,contemporary-austrian
+Kirzner I.,contemporary-austrian
+Wagner R.E.,contemporary-austrian
+Salerno J.T.,contemporary-austrian
+Salerno Joseph T.,contemporary-austrian
+Hayek Friedrich A.,traditional-austrian
+Huerta de Soto J.,contemporary-austrian
+von Bohm-Bawerk E.,traditional-austrian
+Schumpeter Joseph A.,neoclassical
+Lavoie D.,contemporary-austrian
+Bentham J.,classical
+Bentham Jeremy,classical
+Say J.B.,classical
+Say Jean-Baptiste,classical
+Senior N.W.,classical
+Senior Nassau W.,classical
+Koppl R.,contemporary-austrian
+Block W.,contemporary-austrian
+Rothbard Murray N.,traditional-austrian
+Hoppe H.-H.,contemporary-austrian
+Keynes John Maynard,keynesian
+De Soto J.H.,contemporary-austrian
+Klein Peter G.,contemporary-austrian
+Salerno,contemporary-austrian
+Bastiat F.,traditional-austrian
+Garrison R.W.,contemporary-austrian
+Murphy R.P.,contemporary-austrian
+Von Hayek F.A.,traditional-austrian
+Coyne Christopher J.,contemporary-austrian
+Coyne C.J,contemporary-austrian
+Higgs R.,contemporary-austrian
+
