@@ -1,0 +1,44 @@
+## Passo 1
+# Colete as referências a Mises e a Hayek em separado:
+
+
+REF (( Mises AND "Human Action" ) OR (Mises AND "Theory of Money and Credit")  OR (Mises AND "Economic Calculation in the Socialist Commonwealth")  OR (Mises AND "Theory and History") OR (Mises and "Socialism: An Economic and Sociological Analysis") OR (Mises AND "Planning for Freedom") OR (Mises AND "Omnipotent Government") OR (Mises "Interventionism: An Economic Analysis") OR (Mises AND "Epistemological Problems of Economics"))
+
+
+REF( (Hayek and "Road to Serfdom") OR (Hayek AND "The use of knowledge in society") OR (Hayek AND "The Constitution of Liberty") OR (Hayek AND "Law, Legislation and Liberty") OR (Hayek AND "Prices and Production") OR (Hayek AND "Monetary Theory and the Trade Cycle") OR (Hayek AND "Profits, Interest and Investment") OR (Hayek AND "Individualism and Economic Order") OR (Hayek AND "Studies in Philosophy, Politics and Economics") OR (Hayek AND "The Counter-Revolution of Science"))
+
+## Passo 2
+
+general-stats-mises-hayek.ipynb
+
+ACHADO 1:
+
+P(Hayek | Mises): 2,699 / 7,234 = 37.3%
+P(Mises | Hayek): 2,699 / 20,041 = 13.5%
+
+- Homogeneização é assimétrica.
+
+
+ACHADO 2:
+
+cite_mises                                    cite_hayek_counter_revolution                    58.4%      397      680
+
+
+ACHADO 3:
+
+São 3 camadas:
+
+Camada epistemológica (mais forte)
+Use of Knowledge
+Individualism and Economic Order
+
+Camada político-institucional
+Road to Serfdom
+Constitution of Liberty
+Law, Legislation and Liberty
+
+Camada monetária (mais fraca)
+Prices and Production → 7.2%
+Monetary Theory and the Trade Cycle → 4.0%
+
+
